@@ -1,4 +1,4 @@
-package org.stepDefinations;
+package org.sng.stepDefinations;
 
 public class LoginPageSteps {
 
